@@ -15,7 +15,8 @@ Chúc bạn một ngày tuyệt vời! 🌟
 ## Mục lục
 - [Giới thiệu](#giới-thiệu)
 - [Tính năng chính](#tính-năng-chính)
-- [Công nghệ sử dụng](#công-nghệ-sử-dụng)
+- [Giao Diện Ứng Dụng](#giao-diện-ứng-dụng)
+- [Yêu Cầu Hệ Thống](#yêu-cầu-hệ-thống)
 - [Cấu trúc thư mục](#cấu-trúc-thư-mục)
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 
