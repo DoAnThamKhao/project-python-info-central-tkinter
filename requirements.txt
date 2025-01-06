@@ -1,0 +1,11 @@
+psutil
+screen_brightness_control
+comtypes
+pycaw
+tkcalendar
+pillow
+colorthief
+timezonefinder
+requests
+pytz
+geopy

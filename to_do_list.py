@@ -172,13 +172,13 @@ exit_button = Button(
 add_button.place(x=18, y=80, )
 del_button.place(x=240, y=80)
 del_all_button.place(x=460, y=80)
-exit_button.place(x=17, y=330)
+exit_button.place(x=17, y=350)
 
 # defining a list box using the tk.Listbox() widget
 task_listbox = Listbox(
     functions_frame,
-    width=70,
-    height=9,
+    width=57,
+    height=8,
     font="bold",
     selectmode='SINGLE',
     background="WHITE",
